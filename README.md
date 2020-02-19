@@ -1,10 +1,12 @@
 #VITBML-EDA1
-my google colab link ishttps://colab.research.google.com/drive/18ZRUlGUfGD45x3F40MZtqK-mbOSl1JX5#scrollTo=AGLIozzExmkf
+my google colab link is "https://colab.research.google.com/drive/18ZRUlGUfGD45x3F40MZtqK-mbOSl1JX5#scrollTo=AGLIozzExmkf"
+
 Team members:
 1.19PA1A0581
 2.19PA1A0569
 3.19PA1A0574
 4.19PA1A05A5
+
 BENEFITS:
 1.from the above project we understand the functions of pandas.
 2.from the above project we can understand the importance of pandas.
